@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Islam Mohamed</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islam0114" alt="islam0114" /></a> </p>
-
 - 🌱 I’m currently learning **Machine learning (supervised, unsupervised), Deep Learning**
+
+- 💬 Ask me about **Data Analysis, Data Science, Machine Learning**
 
 - 📫 How to reach me **10islammohamed01@gmail.com**
 
