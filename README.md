@@ -7,7 +7,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hey there, I'm Islam Mohamed 👋</h1>
+<h1 align="center">Hey there, I'm Islam Mohamed</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/islam01144" target="_blank">
@@ -38,13 +38,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 **Computer & Communication Engineering** student at **Faculty of Engineering at Shoubra, Benha University** (2023 – 2028 | GPA: 3.6 / 4.0).
-- 💡 Passionate **Data Scientist & Machine Learning Engineer** dedicated to transforming complex raw data into actionable insights and high-impact predictive models.
-- 🚀 Experienced in building **end-to-end Machine Learning pipelines**, exploratory data analysis (EDA), feature engineering, hyperparameter tuning, and deploying interactive AI applications using **Streamlit**.
-- 🏅 Trained & certified by **IBM**, **Microsoft**, **DEPI**, **NTI** (Top 20 Trainee), and **ITI**.
-- 🌐 Explore my full portfolio & case studies at **[data-scientist-portfolio.site](https://data-scientist-portfolio-n58wpnn.gamma.site/)**.
+-  **Computer & Communication Engineering** student at **Faculty of Engineering at Shoubra, Benha University** (2023 – 2028 | GPA: 3.6 / 4.0).
+-  Passionate **Data Scientist & Machine Learning Engineer** dedicated to transforming complex raw data into actionable insights and high-impact predictive models.
+-  Experienced in building **end-to-end Machine Learning pipelines**, exploratory data analysis (EDA), feature engineering, hyperparameter tuning, and deploying interactive AI applications using **Streamlit**.
+-  Trained & certified by **IBM**, **Microsoft**, **DEPI**, **NTI** (Top 20 Trainee), and **ITI**.
+-  Explore my full portfolio & case studies at **[data-scientist-portfolio.site](https://data-scientist-portfolio-n58wpnn.gamma.site/)**.
 
 ---
 
