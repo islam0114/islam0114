@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Islam%20Mohamed&fontSize=42&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Engineer&descFontSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Islam Mohamed Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Islam%20Mohamed&fontSize=42&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20and%20ML%20Engineer&descFontSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Islam Mohamed Header"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=58A6FF&center=true&width=520&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Transforming+Data+into+Actionable+Insights;Building+End-to-End+ML+Pipelines;Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=58A6FF&center=true&width=520&lines=Data+Scientist+%7C+AI+and+ML+Engineer;Transforming+Data+into+Actionable+Insights;Building+End-to-End+ML+Pipelines;Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -64,12 +64,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islam0114&theme=github_dark" width="100%" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=islam0114&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="160" alt="Islam's GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=islam0114&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=islam0114&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="165" alt="Islam's GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=islam0114&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
