@@ -1,4 +1,7 @@
-<!-- 🕹️ Contribution Graph Snake Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Islam%20Mohamed&fontSize=42&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Engineer&descFontSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Islam Mohamed Header"/>
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/islam0114/islam0114/output/github-snake-dark.svg">
@@ -6,8 +9,6 @@
     <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/islam0114/islam0114/output/github-snake.svg"/>
   </picture>
 </p>
-
-<h1 align="center">Hey there, I'm Islam Mohamed</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/islam01144" target="_blank">
@@ -32,23 +33,23 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=58A6FF&center=true&width=550&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Engineering+Student+%40+Shoubra%2C+Cairo;Transforming+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+End-to-End+ML+Pipelines+%F0%9F%A4%96;Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=58A6FF&center=true&width=520&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Transforming+Data+into+Actionable+Insights;Building+End-to-End+ML+Pipelines;Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing SVG"/>
   </a>
 </p>
 
 ---
 
-##  About Me
+## About Me
 
--  **Computer & Communication Engineering** student at **Faculty of Engineering at Shoubra, Benha University** (2023 – 2028 | GPA: 3.6 / 4.0).
--  Passionate **Data Scientist & Machine Learning Engineer** dedicated to transforming complex raw data into actionable insights and high-impact predictive models.
--  Experienced in building **end-to-end Machine Learning pipelines**, exploratory data analysis (EDA), feature engineering, hyperparameter tuning, and deploying interactive AI applications using **Streamlit**.
--  Trained & certified by **IBM**, **Microsoft**, **DEPI**, **NTI** (Top 20 Trainee), and **ITI**.
--  Explore my full portfolio & case studies at **[data-scientist-portfolio.site](https://data-scientist-portfolio-n58wpnn.gamma.site/)**.
+- **Data Scientist & Machine Learning Engineer** specialized in extracting actionable insights from data and building intelligent predictive systems.
+- Experienced in the full **end-to-end Machine Learning lifecycle**: exploratory data analysis (EDA), statistical modeling, feature engineering, model optimization, and deployment via **Streamlit**.
+- Solid background in **Deep Learning**, neural network architectures (CNNs, RNNs, Transformers), Computer Vision, and Natural Language Processing.
+- Continuous learner with hands-on training and certifications from **IBM**, **Microsoft**, **DEPI**, and **NTI**.
+- Interactive portfolio and case studies available at **[data-scientist-portfolio.site](https://data-scientist-portfolio-n58wpnn.gamma.site/)**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -60,15 +61,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islam0114&theme=tokyonight" width="100%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islam0114&theme=github_dark" width="100%" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islam0114&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="160" alt="Islam's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islam0114&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=islam0114&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="160" alt="Islam's GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=islam0114&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -77,38 +78,38 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Student Depression Prediction](https://github.com/islam0114/Student_Depression_Prediction)** | 🧠 End-to-end ML application with **98% accuracy** predicting student depression risk from lifestyle & academic factors. | `Python` `XGBoost` `Scikit-Learn` `Streamlit` | [Repo](https://github.com/islam0114/Student_Depression_Prediction) • [Live Demo](https://student-depression-app.streamlit.app/) |
-| **[Bank Customer Churn Prediction](https://github.com/islam0114/Bank_Customer_Churn)** | 🏦 Predictive classification model detecting customers at risk of churn with actionable retention analytics. | `Python` `Random Forest` `Power BI` `Streamlit` | [Repo](https://github.com/islam0114/Bank_Customer_Churn) • [Live Demo](https://bank-customer-churn0.streamlit.app/) |
-| **[Employee Attrition Prediction](https://github.com/islam0114/Employee_Attrition)** | 💼 Workforce analytics model identifying key drivers behind employee turnover with interactive exploration. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [Repo](https://github.com/islam0114/Employee_Attrition) • [Live Demo](https://employeeattrition-ojmrhbrmarcfkjqqxwrnoe.streamlit.app/) |
-| **[Movie Recommendation System](https://github.com/islam0114/Movie-Recommendation-System)** | 🎬 Recommendation engine utilizing Content-Based and Collaborative Filtering integrated with TMDb API. | `Python` `Scikit-Learn` `Streamlit` `TMDb API` | [Repo](https://github.com/islam0114/Movie-Recommendation-System) |
-| **[Ozone Pollution in California](https://github.com/islam0114/Ozone-Pollution-in-California)** | 🌍 Exploratory Data Analysis & statistical visualization uncovering air quality patterns across California. | `Python` `Pandas` `Matplotlib` `Seaborn` | [Repo](https://github.com/islam0114/Ozone-Pollution-in-California) |
+| **[Student Depression Prediction](https://github.com/islam0114/Student_Depression_Prediction)** | End-to-end ML classification model with 98% accuracy predicting depression risk factors from lifestyle data. | `Python` `XGBoost` `Scikit-Learn` `Streamlit` | [Repo](https://github.com/islam0114/Student_Depression_Prediction) • [Live Demo](https://student-depression-app.streamlit.app/) |
+| **[Bank Customer Churn Prediction](https://github.com/islam0114/Bank_Customer_Churn)** | Predictive classification model detecting customers at risk of churn with actionable retention analytics. | `Python` `Random Forest` `Power BI` `Streamlit` | [Repo](https://github.com/islam0114/Bank_Customer_Churn) • [Live Demo](https://bank-customer-churn0.streamlit.app/) |
+| **[Employee Attrition Prediction](https://github.com/islam0114/Employee_Attrition)** | Workforce analytics model identifying key drivers behind employee turnover with interactive exploration. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [Repo](https://github.com/islam0114/Employee_Attrition) • [Live Demo](https://employeeattrition-ojmrhbrmarcfkjqqxwrnoe.streamlit.app/) |
+| **[Movie Recommendation System](https://github.com/islam0114/Movie-Recommendation-System)** | Recommendation engine utilizing Content-Based and Collaborative Filtering integrated with TMDb API. | `Python` `Scikit-Learn` `Streamlit` `TMDb API` | [Repo](https://github.com/islam0114/Movie-Recommendation-System) |
+| **[Ozone Pollution in California](https://github.com/islam0114/Ozone-Pollution-in-California)** | Exploratory Data Analysis and statistical visualization uncovering air quality patterns across California. | `Python` `Pandas` `Matplotlib` `Seaborn` | [Repo](https://github.com/islam0114/Ozone-Pollution-in-California) |
 
 ---
 
-## 🏆 Certifications & Highlights
+## Certifications & Highlights
 
-- 🏅 **[IBM AI Engineer Professional Certificate](https://drive.google.com/drive/folders/1LjTuAZseVALCr83rohou7KMwOhubwg48?usp=drive_link)** — Coursera
-- 🏅 **[AI & Data Science Trainee](https://drive.google.com/file/d/1pDnYEDZPepilqZZczwus8L_uCPsGxpJ2/view?usp=sharing)** — DEPI
-- 🏅 **[Machine Learning Training (Top 20 Trainee)](https://drive.google.com/file/d/1Ps-5_tuOQDLVZmHrFcumP5AlYMzkKzEX/view?usp=sharing)** — NTI
-- 🏅 **[AI & Machine Learning Summer Camp](https://drive.google.com/file/d/1Du3rAKoVmyppXj9nJUisE3xe9Fi5dpzV/view?usp=drive_link)** — Sprints × Microsoft
-- 🏅 **[Supervised Machine Learning Specialization](https://drive.google.com/file/d/1Ma1zKSAsYJ8bjnDt5QgNZWurC8rbitG5/view?usp=drive_link)** — DeepLearning.AI / Coursera
-
----
-
-## 📚 Currently Exploring
-
-- 🧠 **Advanced Deep Learning & Architectures** — Transformers, CNNs, RNNs, and Attention Mechanisms
-- 👁️ **Computer Vision & NLP** — Object detection, image segmentation, LLMs, and text embedding models
-- ⚡ **MLOps & Production Deployment** — Model containerization with Docker, CI/CD pipelines, and cloud deployment
-- 📊 **Advanced Feature Engineering** — Automated feature selection and high-dimensional optimization
+- **[IBM AI Engineer Professional Certificate](https://drive.google.com/drive/folders/1LjTuAZseVALCr83rohou7KMwOhubwg48?usp=drive_link)** — Coursera
+- **[AI & Data Science Trainee](https://drive.google.com/file/d/1pDnYEDZPepilqZZczwus8L_uCPsGxpJ2/view?usp=sharing)** — DEPI
+- **[Machine Learning Training (Top 20 Trainee)](https://drive.google.com/file/d/1Ps-5_tuOQDLVZmHrFcumP5AlYMzkKzEX/view?usp=sharing)** — NTI
+- **[AI & Machine Learning Summer Camp](https://drive.google.com/file/d/1Du3rAKoVmyppXj9nJUisE3xe9Fi5dpzV/view?usp=drive_link)** — Sprints × Microsoft
+- **[Supervised Machine Learning Specialization](https://drive.google.com/file/d/1Ma1zKSAsYJ8bjnDt5QgNZWurC8rbitG5/view?usp=drive_link)** — DeepLearning.AI / Coursera
 
 ---
 
-## 📬 Let's Connect!
+## Currently Exploring
+
+- **Advanced Deep Learning & Architectures** — Transformers, CNNs, RNNs, and Attention Mechanisms
+- **Computer Vision & NLP** — Object detection, image segmentation, LLMs, and text embeddings
+- **MLOps & Production Deployment** — Model containerization with Docker, CI/CD pipelines, and cloud serving
+- **Advanced Feature Engineering** — Automated feature selection and high-dimensional optimization
+
+---
+
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/islam01144" target="_blank">
@@ -129,8 +130,4 @@
   <a href="mailto:10islammohamed01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
-
-<p align="center">
-  <i>⭐ Feel free to star my repositories if you find my work helpful! Let's connect and collaborate on impactful AI & Data Science projects.</i>
 </p>
